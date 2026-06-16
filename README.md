@@ -36,7 +36,7 @@ Where and when is demand concentrated on Melbourne's metro train network — and
 
 ## Files
 
-- `melbourne_train_patronage.pbix` — the Power BI file
+- `melbourne-train-patronage-analysis.pbix` — the Power BI file
 - `dashboard.png` — dashboard screenshot
 - `annual_metropolitan_train_station_entries_fy_2024_2025.csv` — source data
 
